@@ -1,0 +1,42 @@
+.main{
+    height: 1464px;
+    width: 707px;
+    background-color: #24052c;
+    
+}
+
+
+.SpaceDom{
+
+    font-size: 30px;
+    color: white;
+    font-style: italic;
+}
+
+
+.personalcabinet{
+    width: 1000px;
+    height: 92px;
+    background-color: #6A1B9A;
+    margin-left: 896px;
+    border-radius: 10px 10px 10px 10px;
+    margin-top: -50px;
+
+}
+
+.textik{
+    color: #fff;
+    font-size: 40px;
+    margin-left: 50px;
+    padding-top: 20px;
+
+}
+
+.LEAVE{
+    background-color: #24052c;
+    color: #fff;
+    font-size: xx-large;
+    margin-left: 870px;
+    font-style: italic;
+    
+}

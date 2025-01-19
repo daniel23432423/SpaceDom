@@ -1,0 +1,74 @@
+.allcode{
+    text-align: center;
+    
+    
+}
+
+
+.signup{
+    color: blueviolet;
+}
+
+.signin{
+   
+    background-color: rgb(43, 132, 192);
+    color: #fff;
+    border-color: rgb(43, 132, 192);
+    
+}
+
+.dannye{
+    color:rgb(59, 228, 228);
+}
+
+
+.Nickname{
+    margin: 0.1px;
+    margin-right: 100px;
+}
+
+
+.E-mail{
+    margin-bottom: 0.1px;
+    margin-right: 120px;
+}
+
+.Password{
+    margin-bottom: 0.1px;
+    margin-right: 100px;
+}
+
+.PasswordAgain{
+    margin-bottom: 0.1px;
+    margin-right: 59px;
+}
+
+.all{
+    border-color: blueviolet;
+    box-shadow: none;
+}
+
+
+
+.in{
+    font-size: 10px;
+    color: blueviolet;
+    margin-right: 20px;
+    
+}
+
+
+.enter{
+    font-size: 20px;
+    color: rgb(25, 38, 216);
+    margin-left: 20px;
+    text-decoration: none;
+    
+   
+}
+
+
+
+
+
+
